@@ -1,0 +1,1 @@
+import{_ as s,a as o,c as a,e as c}from"./index-CrwD-uEf.js";const n={},t={class:"loading-view"};function r(d,e){return o(),a("div",t,e[0]||(e[0]=[c("div",{class:"loader"},null,-1)]))}const i=s(n,[["render",r],["__scopeId","data-v-83215ec2"]]);export{i as L};
