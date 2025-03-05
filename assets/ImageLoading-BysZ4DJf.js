@@ -1,1 +1,0 @@
-import{_ as a,o,c as s,a as c}from"./index-CaRBcVSE.js";const n={},t={class:"loading-view"};function r(d,e){return o(),s("div",t,e[0]||(e[0]=[c("div",{class:"loader"},null,-1)]))}const i=a(n,[["render",r],["__scopeId","data-v-dafc43e8"]]);export{i as I};
